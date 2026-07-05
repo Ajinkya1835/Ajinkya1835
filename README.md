@@ -14,7 +14,7 @@
 
 ## About
 
-Software Engineer Intern at **MetaGrad Labs**, building **OptimSkool**, a school ERP platform. 4th-year AI & ML Engineering undergraduate at Lokmanya Tilak College of Engineering, Mumbai.
+Software Engineer Intern at **MetaGrad Labs**, building a school ERP platform. 4th-year AI & ML Engineering undergraduate from Mumbai.
 
 Background in full-stack web development, workflow automation with n8n, and self-hosted infrastructure. Currently maintaining a 24/7 home server and sharpening ML fundamentals and DSA.
 
