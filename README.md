@@ -38,11 +38,11 @@ Background in full-stack web development, workflow automation with n8n, and self
 Full-stack municipal portal with multi-role workflows (citizen, permit holder, officer, admin) for reporting and resolving property violations. Geolocation-based reporting via Google Maps, automated fine calculation, CI on GitHub Actions.
 `React` `Express` `MongoDB` `JWT` `Google Maps API`
 
-**Home Server & Personal Cloud**
+**[Home Server & Personal Cloud](https://github.com/Ajinkya1835/Home-server)**
 Self-hosted 24/7 home lab running Docker Compose stacks behind Cloudflare Tunnels with hardened networking and reverse proxying.
 `Ubuntu Server` `Docker` `Cloudflare` `Nginx`
 
-**Fashion Trend Forecaster**
+**[Fashion Trend Forecaster](https://github.com/Ajinkya1835/Fashion-suggestion-using-datasets-RAG)**
 Personalized outfit recommendation engine combining live weather data with rule-based and ML-style logic.
 `Python` `Pandas` `Weather API`
 
@@ -65,8 +65,8 @@ Scraper and API system comparing product prices in real time across multiple e-c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ajinkya-yadav-70b3671a6)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ajinkyayadav1803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ajinkya-yadav-70b3671a6)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&fs=1&to=ajinkyayadav1803@gmail.com)
 
 </div>
 
