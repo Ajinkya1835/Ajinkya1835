@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ajinkya+Yadav;AI+%26+ML+Engineering+Student;Full-Stack+%26+Automation+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=Ajinkya%20Yadav&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20%26%20Automation%20Builder&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Software%20Engineer%20Intern-MetaGrad%20Labs-000000?style=flat-square&labelColor=000000&color=00D9FF" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer%20Intern-MetaGrad%20Labs-0D1117?style=flat-square&labelColor=000000&color=0D1117&logo=vercel&logoColor=00D9FF" />
 
 </div>
 
@@ -22,24 +24,9 @@ Background in full-stack web development, workflow automation with n8n, and self
 
 ## Tech Stack
 
-<div>
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
-![n8n](https://img.shields.io/badge/-n8n-000000?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,git,githubactions,tensorflow,pandas&theme=dark" />
 
 </div>
 
@@ -69,8 +56,8 @@ Scraper and API system comparing product prices in real time across multiple e-c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajinkya1835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Ajinkya1835&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajinkya1835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Ajinkya1835&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" height="165"/>
 
 </div>
 
@@ -78,7 +65,9 @@ Scraper and API system comparing product prices in real time across multiple e-c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ajinkya-yadav-70b3671a6)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ajinkyayadav1803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ajinkya-yadav-70b3671a6)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ajinkyayadav1803@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=100&section=footer" width="100%"/>
