@@ -33,9 +33,9 @@ Background in full-stack web development, workflow automation with n8n, and self
 <br/>
 
 ## Featured Projects
-
-**[PVMS — Public Violation Management System](https://github.com/Ajinkya1835/PVMS-Public-Violation-Management-System)**
-Full-stack municipal portal with multi-role workflows (citizen, permit holder, officer, admin) for reporting and resolving property violations. Geolocation-based reporting via Google Maps, automated fine calculation, CI on GitHub Actions.
+ 
+**[PVMS — Public Violation Management System](https://github.com/Ajinkya1835/PVMS-Public-Violation-Management-System)**  
+Full-stack municipal portal · React · Express · MongoDB · Maps · Multi-role auth
 `React` `Express` `MongoDB` `JWT` `Google Maps API`
 
 **[Home Server & Personal Cloud](https://github.com/Ajinkya1835/Home-server)**
