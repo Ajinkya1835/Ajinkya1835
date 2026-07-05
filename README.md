@@ -52,15 +52,6 @@ Scraper and API system comparing product prices in real time across multiple e-c
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ajinkya1835&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_radius=10" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Ajinkya1835&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" height="165"/>
-
-</div>
-
 <br/>
 
 <div align="center">
