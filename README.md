@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=Ajinkya%20Yadav&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20%26%20Automation%20Builder&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=180&section=header&text=Ajinkya%20Yadav&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20-%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=C9D1D9" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineer%20Intern-MetaGrad%20Labs-0D1117?style=flat-square&labelColor=000000&color=0D1117&logo=vercel&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/-Software%20Engineer%20Intern%20%40%20MetaGrad%20Labs-000000?style=flat-square&logo=vercel&logoColor=00D9FF" />
 
 </div>
 
